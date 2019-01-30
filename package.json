@@ -1,13 +1,13 @@
 {
   "name": "rubie",
   "version": "1.0.0",
-  "description": "a bot on a bot on a little boat of a bot",
+  "description": "a bot",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "author": "Yazooyy",
-  "license": "NONE"
+  "license": "ISC",
   "dependencies": {
     "discord.js": "^11.4.2"
   }
