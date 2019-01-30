@@ -8,7 +8,8 @@ client.on("ready", () => {
  console.log(`Loading......`)
  console.log(`Loading.......`)
  console.log(`Loading........`)
- console.log(`Sucessfully loaded.`)
+ console.log(`Sucessfully loaded.`);
+ client.user.setActivity(`over the developers`, { type: 'WATCHING' })
 });
 
 client.on("message", async (message) => {
