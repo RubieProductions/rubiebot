@@ -18,7 +18,7 @@ client.on("message", async (message) => {
  if(message.content === prefix + 'website') {
    let embed = new Discord.RichEmbed()
     .setColor('GREEN')
-    .setDescription(`[click me](https://www.rubieproductions.com)`)
+    .setDescription(`[Rubie Productions](https://www.rubieproductions.com)`)
     .setFooter(client.user.username, client.user.displayAvatarURL);
    message.channel.send(embed);
  }
