@@ -1,0 +1,11 @@
+{
+  "name": "rubie",
+  "version": "1.0.0",
+  "description": "a bot on a bot on a little boat of a bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Yazooyy",
+  "license": "NONE"
+}
